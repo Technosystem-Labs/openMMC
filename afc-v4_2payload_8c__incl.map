@@ -1,0 +1,27 @@
+<map id="port/board/afc&#45;v4/payload.c" name="port/board/afc&#45;v4/payload.c">
+<area shape="rect" id="node6" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="835,155,895,181"/>
+<area shape="rect" id="node29" href="$afc-v4_2payload_8h.html" title="payload.h" alt="" coords="1063,80,1149,107"/>
+<area shape="rect" id="node30" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="136,80,199,107"/>
+<area shape="rect" id="node35" href="$task__priorities_8h.html" title="task_priorities.h" alt="" coords="1332,80,1459,107"/>
+<area shape="rect" id="node36" href="$mcp23016_8h.html" title="MCP23016 module interface functions declarations. " alt="" coords="729,80,832,107"/>
+<area shape="rect" id="node37" href="$ad84xx_8h.html" title="ad84xx.h" alt="" coords="1483,80,1566,107"/>
+<area shape="rect" id="node38" href="$hotswap_8h.html" title="Hotswap sensors definitions. " alt="" coords="223,80,312,107"/>
+<area shape="rect" id="node39" href="$utils_8h.html" title="General utilities functions. " alt="" coords="296,155,359,181"/>
+<area shape="rect" id="node40" href="$fru_8h.html" title="fru.h" alt="" coords="935,80,987,107"/>
+<area shape="rect" id="node43" href="$led_8h.html" title="led.h" alt="" coords="856,80,911,107"/>
+<area shape="rect" id="node44" href="$board__led_8h.html" title="board_led.h" alt="" coords="555,80,654,107"/>
+<area shape="rect" id="node8" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="1331,229,1435,256"/>
+<area shape="rect" id="node10" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="1212,229,1307,256"/>
+<area shape="rect" id="node11" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="773,229,871,256"/>
+<area shape="rect" id="node13" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="1460,229,1555,256"/>
+<area shape="rect" id="node15" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="1579,229,1718,256"/>
+<area shape="rect" id="node17" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="1743,229,1901,256"/>
+<area shape="rect" id="node19" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="1925,229,2031,256"/>
+<area shape="rect" id="node20" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="946,229,1061,256"/>
+<area shape="rect" id="node22" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="489,229,605,256"/>
+<area shape="rect" id="node24" href="$arm__cm3__reset_8h.html" title="arm_cm3_reset.h" alt="" coords="2055,229,2189,256"/>
+<area shape="rect" id="node25" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="1085,229,1188,256"/>
+<area shape="rect" id="node31" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="203,229,270,256"/>
+<area shape="rect" id="node34" href="$sdr_8h.html" title="sdr.h" alt="" coords="210,155,263,181"/>
+<area shape="rect" id="node33" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="5,304,116,331"/>
+</map>
